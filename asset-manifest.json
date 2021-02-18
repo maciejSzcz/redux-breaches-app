@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/redux-breaches-app/static/js/main.cf27dbcf.chunk.js",
-    "main.js.map": "/redux-breaches-app/static/js/main.cf27dbcf.chunk.js.map",
+    "main.js": "/redux-breaches-app/static/js/main.e6436c26.chunk.js",
+    "main.js.map": "/redux-breaches-app/static/js/main.e6436c26.chunk.js.map",
     "runtime-main.js": "/redux-breaches-app/static/js/runtime-main.844d37b5.js",
     "runtime-main.js.map": "/redux-breaches-app/static/js/runtime-main.844d37b5.js.map",
     "static/js/2.6af96a15.chunk.js": "/redux-breaches-app/static/js/2.6af96a15.chunk.js",
@@ -21,6 +21,6 @@
   "entrypoints": [
     "static/js/runtime-main.844d37b5.js",
     "static/js/2.6af96a15.chunk.js",
-    "static/js/main.cf27dbcf.chunk.js"
+    "static/js/main.e6436c26.chunk.js"
   ]
 }
