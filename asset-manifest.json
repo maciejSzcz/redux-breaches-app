@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/redux-breaches/static/js/main.cf27dbcf.chunk.js",
-    "main.js.map": "/redux-breaches/static/js/main.cf27dbcf.chunk.js.map",
-    "runtime-main.js": "/redux-breaches/static/js/runtime-main.11f7598e.js",
-    "runtime-main.js.map": "/redux-breaches/static/js/runtime-main.11f7598e.js.map",
-    "static/js/2.6af96a15.chunk.js": "/redux-breaches/static/js/2.6af96a15.chunk.js",
-    "static/js/2.6af96a15.chunk.js.map": "/redux-breaches/static/js/2.6af96a15.chunk.js.map",
-    "static/js/3.c00683b0.chunk.js": "/redux-breaches/static/js/3.c00683b0.chunk.js",
-    "static/js/3.c00683b0.chunk.js.map": "/redux-breaches/static/js/3.c00683b0.chunk.js.map",
-    "static/js/4.c297302d.chunk.js": "/redux-breaches/static/js/4.c297302d.chunk.js",
-    "static/js/4.c297302d.chunk.js.map": "/redux-breaches/static/js/4.c297302d.chunk.js.map",
-    "static/js/5.62ed1cd3.chunk.js": "/redux-breaches/static/js/5.62ed1cd3.chunk.js",
-    "static/js/5.62ed1cd3.chunk.js.map": "/redux-breaches/static/js/5.62ed1cd3.chunk.js.map",
-    "index.html": "/redux-breaches/index.html",
-    "static/js/2.6af96a15.chunk.js.LICENSE.txt": "/redux-breaches/static/js/2.6af96a15.chunk.js.LICENSE.txt",
-    "static/js/3.c00683b0.chunk.js.LICENSE.txt": "/redux-breaches/static/js/3.c00683b0.chunk.js.LICENSE.txt",
-    "static/js/4.c297302d.chunk.js.LICENSE.txt": "/redux-breaches/static/js/4.c297302d.chunk.js.LICENSE.txt",
-    "static/js/5.62ed1cd3.chunk.js.LICENSE.txt": "/redux-breaches/static/js/5.62ed1cd3.chunk.js.LICENSE.txt"
+    "main.js": "/redux-breaches-app/static/js/main.cf27dbcf.chunk.js",
+    "main.js.map": "/redux-breaches-app/static/js/main.cf27dbcf.chunk.js.map",
+    "runtime-main.js": "/redux-breaches-app/static/js/runtime-main.844d37b5.js",
+    "runtime-main.js.map": "/redux-breaches-app/static/js/runtime-main.844d37b5.js.map",
+    "static/js/2.6af96a15.chunk.js": "/redux-breaches-app/static/js/2.6af96a15.chunk.js",
+    "static/js/2.6af96a15.chunk.js.map": "/redux-breaches-app/static/js/2.6af96a15.chunk.js.map",
+    "static/js/3.c00683b0.chunk.js": "/redux-breaches-app/static/js/3.c00683b0.chunk.js",
+    "static/js/3.c00683b0.chunk.js.map": "/redux-breaches-app/static/js/3.c00683b0.chunk.js.map",
+    "static/js/4.c297302d.chunk.js": "/redux-breaches-app/static/js/4.c297302d.chunk.js",
+    "static/js/4.c297302d.chunk.js.map": "/redux-breaches-app/static/js/4.c297302d.chunk.js.map",
+    "static/js/5.62ed1cd3.chunk.js": "/redux-breaches-app/static/js/5.62ed1cd3.chunk.js",
+    "static/js/5.62ed1cd3.chunk.js.map": "/redux-breaches-app/static/js/5.62ed1cd3.chunk.js.map",
+    "index.html": "/redux-breaches-app/index.html",
+    "static/js/2.6af96a15.chunk.js.LICENSE.txt": "/redux-breaches-app/static/js/2.6af96a15.chunk.js.LICENSE.txt",
+    "static/js/3.c00683b0.chunk.js.LICENSE.txt": "/redux-breaches-app/static/js/3.c00683b0.chunk.js.LICENSE.txt",
+    "static/js/4.c297302d.chunk.js.LICENSE.txt": "/redux-breaches-app/static/js/4.c297302d.chunk.js.LICENSE.txt",
+    "static/js/5.62ed1cd3.chunk.js.LICENSE.txt": "/redux-breaches-app/static/js/5.62ed1cd3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.11f7598e.js",
+    "static/js/runtime-main.844d37b5.js",
     "static/js/2.6af96a15.chunk.js",
     "static/js/main.cf27dbcf.chunk.js"
   ]
