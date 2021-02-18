@@ -20,7 +20,7 @@ store.subscribe(()=>{
 
 render(
   <Provider store={store}>
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route exact path="/" component={Breaches} />
         <Route exact path="/:id" component={BreachDetails} />

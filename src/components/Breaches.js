@@ -72,7 +72,8 @@ const Breaches = ({breaches, loaded, getBreaches, sortByName, sortByCount, delet
             minWidth: "80vw",
             maxWidth: "99%",
             overflow: "auto",
-            marginBottom: "2em"
+            marginBottom: "2em",
+            marginTop: "1em"
           }}
           isLoading={loaded ? false : true}
           className={classes.table}
