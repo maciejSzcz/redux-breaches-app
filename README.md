@@ -34,3 +34,6 @@ to build an image with the production version of the react project
 ### `docker run -p 80:80 my-react-app`
 
 to run the container with the production build
+
+
+[![Build Status](https://travis-ci.com/maciejSzcz/redux-breaches-app.svg?branch=master)](https://travis-ci.com/maciejSzcz/redux-breaches-app)
