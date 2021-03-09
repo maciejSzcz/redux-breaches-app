@@ -1,0 +1,8 @@
+services:
+  - docker
+
+before_install:
+  - docker build -t my-react-app-dev -f Dockerfile.dev .
+
+script:
+  - docker run -p 3000:3000 my-react-app-dev
