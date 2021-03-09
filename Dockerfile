@@ -3,7 +3,7 @@ FROM node:14 AS build
 WORKDIR /app
 
 COPY package.json /app/
-RUN yarn install --verbose --network-timeout 100000
+RUN yarn install --network-timeout 100000
 
 COPY ./ /app/
 
