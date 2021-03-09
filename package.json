@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "start-travis": "timeout 100 react-scripts start",
+    "start-travis": "(timeout 100s react-scripts start; exit 0)",
     "build-localhost": "PUBLIC_URL=/ react-scripts build",
     "build": "react-scripts build",
     "test": "react-scripts test",
